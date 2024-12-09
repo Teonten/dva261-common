@@ -1,6 +1,6 @@
 from flask import request, jsonify
 from functools import wraps
-from config.settings import CTRL_KEY
+from config.settings import NODE_CONF
 
 def authenticate_node(f):
     """
@@ -26,7 +26,7 @@ def authenticate_node(f):
     @wraps(f)
     def wrapper(*args, **kwargs):
         api_key = request.headers.get("Authorization")
-        if api_key != CTRL_KEY:
+        if api_key != NODE_CONF['ctrl_key']:
             return jsonify({"message": "Unauthorized"}), 401
         return f(*args, **kwargs)
     return wrapper

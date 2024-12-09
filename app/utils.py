@@ -1,8 +1,8 @@
 import logging
 import time
-from config.settings
+from config.settings import NODE_CONF
 # Setup logging
-logging.basicConfig(filename="logs/{HOSTNAME}.log", level=logging.INFO)
+logging.basicConfig(filename=f"logs/{NODE_CONF['hostname']}.log", level=logging.INFO)
 
 def log_message(message):
     logging.info(f"{time.strftime('%Y-%m-%d %H:%M:%S')} - {message}")

@@ -8,15 +8,15 @@ Returns:
     Flask: A configured Flask application instance ready to be run.
 """
 from flask import Flask
-from config.settings import CTRL_HOST, HOST_IP, HOSTNAME, PORT
+from config.settings import NODE_CONF
 
 app = Flask(__name__)
 
 # Load configurations
-app.config['CTRL_HOST'] = CTRL_HOST
-app.config["HOST_IP"] = HOST_IP
-app.config["PORT"] = PORT
-app.config["HOSTNAME"] = HOSTNAME
+app.config['CTRL_HOST'] = NODE_CONF['ctrl_host']
+app.config["HOST_IP"] = NODE_CONF['host_ip']
+app.config["CTRL_PORT"] = NODE_CONF['ctrl_port']
+app.config["HOSTNAME"] = NODE_CONF['hostname']
 
 # Import and register routes
 from app.routes import routes

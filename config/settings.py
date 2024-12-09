@@ -32,6 +32,21 @@ COM_INT = {
 }
 
 
+# Define actuator GPIO pins
+BUZZER = 27
+RED_LED = 10
+GREEN_LED = 17
+YELLOW_LED = 18
+ACTUATOR = {    
+    "buzzer": 27,         # GPIO27
+    "red_led": 10,        # GPIO10
+    "green_led": 17,      # GPIO17
+    "yellow_led": 18      # GPIO18
+}
+
+# Defining sensor GPIO pins
+BUTTON_GPIO = 25       # GPIO25
+
 #Define ultrasonic communcation:
 ECHO = 17
 TRIGGER = 4
@@ -47,23 +62,12 @@ ULTRASONIC = {
 'queue_len': QUEUE_LEN
 }
 
-# Initialize the buzzer and LED
-buzzer = Buzzer(27)
-GREEN_LED = LED(21)
 
-
-# Define GPIO configuration for LEDs and button
-RED_LED = 10
-GREEN_LED = 17
-YELLOW_LED = 18
-BUTTON_GPIO = 25       # GPIO25
-
-
-LED_GPIO = {
-    "red": 10,        # GPIO10
-    "green": 17,      # GPIO17
-    "yellow": 18      # GPIO18
+SENSORS = {
+    "button": BUTTON_GPIO,
+    "ultrasonic": ULTRASONIC 
 }
+
 
 
 

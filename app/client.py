@@ -41,10 +41,11 @@ def threaded_communicate(action, retries=COM_INT['max_retries']):
 
     try:
         response = requests.post(url=url, json=data, auth=auth, headers=headers, verify=False, timeout=1)
+        print(response.content)
         if response.status_code == 201:
             log_message(f"Command {action_id} sent to {hostname}: {action}")
             json_data = response.json()
-            print(json_data)
+            
 
             return data
 
@@ -63,5 +64,3 @@ def communicate(action):
     )
     thread.daemon = True
     thread.start()
-
-heartbeat()
