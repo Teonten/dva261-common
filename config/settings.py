@@ -7,7 +7,6 @@ HOST_PORT = 2443
 
 # API Key for Node
 API_KEY = "key_" + HOSTNAME
-CTRL_KEY ="key_ctrl"
 
 NODE_CONF = {
     "ctrl_host": CTRL_HOST,
@@ -32,6 +31,43 @@ COM_INT = {
     "retry_delay": RETRY_DELAY      # delay between retries
 }
 
+
+#Define ultrasonic communcation:
+ECHO = 17
+TRIGGER = 4
+MAX_DISTANCE = 1.0
+THRESHOLD_DISTANCE = 0.5
+QUEUE_LEN = 3
+
+ULTRASONIC = {
+'echo': ECHO,
+'trigger': TRIGGER,
+'max_distance': MAX_DISTANCE,
+'threshold_distance': THRESHOLD_DISTANCE,
+'queue_len': QUEUE_LEN
+}
+
+# Initialize the buzzer and LED
+buzzer = Buzzer(27)
+GREEN_LED = LED(21)
+
+
+# Define GPIO configuration for LEDs and button
+RED_LED = 10
+GREEN_LED = 17
+YELLOW_LED = 18
+BUTTON_GPIO = 25       # GPIO25
+
+
+LED_GPIO = {
+    "red": 10,        # GPIO10
+    "green": 17,      # GPIO17
+    "yellow": 18      # GPIO18
+}
+
+
+
+
 # In-memory node status
 NODE_STATUS = { # will be set on a per node basis with install.bash 
     "previous": None,
@@ -39,4 +75,3 @@ NODE_STATUS = { # will be set on a per node basis with install.bash
     "heartbeat": None,
     "time_delta": None,
 }
-
