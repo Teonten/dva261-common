@@ -1,14 +1,15 @@
 import ssl
 import os
+from config.settings import HOSTNAME
 
 def get_tls_context():
     """
     Configures and returns a TLS context for secure communication.
     """
     cert_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../certs"))
-    ca_file = os.path.join(cert_dir, "ca.pem")
-    cert_file = os.path.join(cert_dir, "ultrain.crt")
-    key_file = os.path.join(cert_dir, "ultrain.key")
+    ca_file = os.path.join(cert_dir, f"{HOSTNAME}-cert.pem")
+    cert_file = os.path.join(cert_dir, f"{HOSTNAME}-cert.pem")
+    key_file = os.path.join(cert_dir, f"{HOSTNAME}-key.pem")
 
     context = ssl.SSLContext(ssl.PROTOCOL_TLS_CLIENT)
     context.load_verify_locations(ca_file)
