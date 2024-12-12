@@ -1,5 +1,7 @@
+import gpiozero
+
 # Node Configuration
-CTRL_HOST = "10.42.0.1"
+CTRL_HOST = "172.23.19.1" #"10.42.0.1"
 CTRL_PORT = 443
 HOSTNAME = "ultraut"
 HOST_IP = "10.132.136.7"
@@ -33,54 +35,21 @@ COM_INT = {
     "retry_delay": RETRY_DELAY      # delay between retries
 }
 
-
-# Define actuator GPIO pins
-BUZZER = 27
-RED_LED = 10
-GREEN_LED = 17
-YELLOW_LED = 18
-ACTUATOR = {    
-    "buzzer": 27,         # GPIO27
-    "red_led": 10,        # GPIO10
-    "green_led": 17,      # GPIO17
-    "yellow_led": 18      # GPIO18
-}
-
-# Defining sensor GPIO pins
-BUTTON_GPIO = 25       # GPIO25
-
 #Define ultrasonic communcation:
-ECHO = 17
-TRIGGER = 4
-MAX_DISTANCE = 1.0
-THRESHOLD_DISTANCE = 0.5
-QUEUE_LEN = 3
-
-ULTRASONIC = {
-'echo': ECHO,
-'trigger': TRIGGER,
-'max_distance': MAX_DISTANCE,
-'threshold_distance': THRESHOLD_DISTANCE,
-'queue_len': QUEUE_LEN
-}
-
-
-SENSORS = {
-    "button": BUTTON_GPIO,
-    "ultrasonic": ULTRASONIC 
-}
-
-
-
-
+ULTRASONIC = gpiozero.DistanceSensor(echo=17,trigger=4,max_distance=1.0,threshold_distance=0.5,queue_len=3)
+BUTTON = gpiozero.Button(27, active_state=None, pull_up=False, bounce_time=0.02)
+RED_LED = gpiozero.OutputDevice(23, active_high=True, initial_value=False)
+GREEN_LED = gpiozero.OutputDevice(24, active_high=True, initial_value=False)
+YELLOW_LED = gpiozero.OutputDevice(22, active_high=True, initial_value=False)
 
 # In-memory node status
 NODE_STATUS = {
     "hostname": HOSTNAME,
     "next": None,
+    "button": False,
+    "ultrasonic": False,
     "door_lock": {
         "lock": False,
         "last_stamp": None
     },
-    "heartbeat": None,
 }

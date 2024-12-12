@@ -128,3 +128,574 @@ INFO:root:Starting ultraut API server...
 INFO:root:2024-12-10 18:04:21 - Command 8088b0da-146b-4145-a5d3-9e7f4dcb41f3 sent to ultraut: heartbeat
 INFO:root:Starting ultraut API server...
 INFO:root:2024-12-10 18:09:17 - Command ae5241f8-816d-402d-b50b-e73ef8302e31 sent to ultraut: heartbeat
+INFO:root:Starting ultraut API server...
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 18:09:02 - ERROR: HTTPSConnectionPool(host='172.23.19.1', port=443): Max retries exceeded with url: /v1/nodes/ultraut/button (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f87809bd0>: Failed to establish a new connection: [Errno 111] Connection refused')) 2d639c05-52eb-414c-a569-8e68998242cf to ultraut. Retrying...
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 18:11:18 - ERROR: HTTPSConnectionPool(host='172.23.19.1', port=443): Max retries exceeded with url: /v1/nodes/ultraut/button (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f96f59bd0>: Failed to establish a new connection: [Errno 111] Connection refused')) 3df3dc85-b756-4ee1-aaba-629c1ccf9c22 to ultraut. Retrying...
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 18:11:47 - ERROR: HTTPSConnectionPool(host='172.23.19.1', port=443): Max retries exceeded with url: /v1/nodes/ultraut/button (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fae8e9bd0>: Failed to establish a new connection: [Errno 111] Connection refused')) 3cc96bd7-3a56-4481-bc77-228dad6287f1 to ultraut. Retrying...
+INFO:root:Starting ultraut API server...
+INFO:root:Starting ultraut API server...
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 18:14:58 - ERROR: HTTPSConnectionPool(host='172.23.19.1', port=443): Max retries exceeded with url: /v1/nodes/ultraut/button (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8a149bd0>: Failed to establish a new connection: [Errno 111] Connection refused')) 52b294a0-e855-4dab-9a7c-46ce3a3a1e60 to ultraut. Retrying...
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 18:15:47 - ERROR: HTTPSConnectionPool(host='172.23.19.1', port=443): Max retries exceeded with url: /v1/nodes/ultraut/button (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f83229bd0>: Failed to establish a new connection: [Errno 111] Connection refused')) 0a5873f2-2a1c-4649-9965-e9902a84ff9a to ultraut. Retrying...
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 18:16:10 - ERROR: HTTPSConnectionPool(host='172.23.19.1', port=443): Max retries exceeded with url: /v1/nodes/ultraut/button (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa5dd7550>: Failed to establish a new connection: [Errno 111] Connection refused')) e13aeb47-9d13-4a3c-b7d1-80f6f0b10076 to ultraut. Retrying...
+INFO:root:Starting ultraut API server...
+INFO:root:Starting ultraut API server...
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 18:23:24 - ERROR: HTTPSConnectionPool(host='172.23.19.1', port=443): Max retries exceeded with url: /v1/nodes/ultraut/button (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fbc18e510>: Failed to establish a new connection: [Errno 111] Connection refused')) 71182ab6-2565-4fa5-96f8-7c1fd44424e3 to ultraut. Retrying...
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 18:27:40 - ERROR: HTTPSConnectionPool(host='172.23.19.1', port=443): Max retries exceeded with url: /v1/nodes/ultraut/button (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb943e990>: Failed to establish a new connection: [Errno 111] Connection refused')) a6fb7bf5-87a7-4346-93e8-4544aa9367fd to ultraut. Retrying...
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Yellow LED on.
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Yellow LED on.
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Yellow LED on.
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Yellow LED on.
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Yellow LED on.
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Ultrasonic OUT
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Ultrasonic IN
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Ultrasonic OUT
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Ultrasonic IN
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:33:17 - Command 373a7f9b-927c-4061-b788-c30c8a124802 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:33:17 - Command d9405071-a249-44a6-b2e6-0b4aef7c1d9e sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-12 19:33:21 - Command 0b5ed116-0afc-4f64-ae8b-0a397d0c701c sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-12 19:33:22 - Command 18b959d4-dd73-4e6d-a043-e0b2452712e0 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-12 19:33:24 - Command ebb144bd-cec3-49f8-93f7-5967d1abc5a0 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-12 19:33:25 - Command 7f25a68a-c2cc-46dd-b6ee-fed927008d1c sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:35:50 - Command 5ccce4d9-44e2-491a-994d-855e35b0d473 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:35:52 - Command 182db07c-165c-434d-93a2-18fa23ad5019 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:35:52 - Command ce915363-6699-4700-ba9f-689e7dca4c90 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:35:52 - Command b27c42ef-9289-458e-993c-3ee5f1b3b435 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:35:53 - Command 73d2717a-8c8f-4b1e-a715-ca43b4e6bd6f sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:36:44 - Command 829eb361-c13f-46fe-9998-afe66c886bb6 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:36:47 - ERROR: HTTPSConnectionPool(host='172.23.19.1', port=443): Read timed out. (read timeout=1) b646d482-df8b-42da-b125-5a6273699206 to ultraut. Retrying...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:36:48 - Command bb53450e-9e6f-4ef5-b7a9-ab8de3422985 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-12 19:36:49 - Command a44a1bc1-6dc5-4440-8eac-18ec7a5ecbe9 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-12 19:36:50 - Command 35bab50d-f80f-42dd-b945-c98964579a3a sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-12 19:36:53 - Command e354f007-89f2-42c8-9fb8-3e4647e2338f sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-12 19:36:55 - Command fab2cb2e-e3fa-48c4-996c-2f304f66899e sent to ultraut: update
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:37:19 - Command 285a4200-ca7d-498e-8401-32a679c483a4 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-12 19:37:23 - Command 917b8634-4efe-42e2-967b-667c52edc70e sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-12 19:37:26 - Command 85b074ef-cd5d-487e-8e4b-f3bcda26eafc sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:37:34 - ERROR: HTTPSConnectionPool(host='172.23.19.1', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa6cacd90>: Failed to establish a new connection: [Errno 111] Connection refused')) 5d44e3b6-4819-42fd-8b9b-99e1559196a0 to ultraut. Retrying...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:37:35 - ERROR: HTTPSConnectionPool(host='172.23.19.1', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa6cbc890>: Failed to establish a new connection: [Errno 111] Connection refused')) fab3f6f5-5592-4e9d-978e-90b2461b3559 to ultraut. Retrying...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:37:36 - ERROR: HTTPSConnectionPool(host='172.23.19.1', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa6cbe790>: Failed to establish a new connection: [Errno 111] Connection refused')) 34d797bd-0313-4525-a9df-bc43ef2ebb85 to ultraut. Retrying...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:37:36 - ERROR: HTTPSConnectionPool(host='172.23.19.1', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa6cc86d0>: Failed to establish a new connection: [Errno 111] Connection refused')) 60f48e45-4e9c-4a42-ac69-979e8f0d0dad to ultraut. Retrying...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:37:38 - ERROR: HTTPSConnectionPool(host='172.23.19.1', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa6cbf2d0>: Failed to establish a new connection: [Errno 111] Connection refused')) 0da58ad8-8fd2-4400-8349-553d63eb5966 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-12 19:37:40 - ERROR: HTTPSConnectionPool(host='172.23.19.1', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa6cbe610>: Failed to establish a new connection: [Errno 111] Connection refused')) 48044abf-4a6a-440b-8ec4-03a09743f12d to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-12 19:37:40 - ERROR: HTTPSConnectionPool(host='172.23.19.1', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa6cbcb50>: Failed to establish a new connection: [Errno 111] Connection refused')) cb654c07-b3eb-4a91-80aa-4f4e3df1cd9f to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-12 19:37:52 - Command 3b351138-2dce-4476-8548-70b3df53599b sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-12 19:37:55 - Command 97be958c-84f4-494a-9937-ed630ac3c7c1 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-12 19:37:57 - Command 788f6d05-6108-4d6b-bc70-badf86d8a19c sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-12 19:37:58 - Command 45bc33ac-938a-4601-a7ec-b1192a8fbbc2 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:37:59 - Command 37716b13-9c25-48eb-9b77-9dbafb988437 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:38:00 - Command 9504900a-5896-4061-a624-4a0828271213 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:38:05 - Command 226efc41-0a51-4256-99e6-5b01b52bd85e sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-12 19:38:07 - Command 0aebc41d-de29-400b-a48a-b3d317c6d798 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-12 19:38:08 - Command b38f8d4a-0672-4023-880d-0d676bce1f8f sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-12 19:38:09 - Command 46863a28-b5d8-4390-af34-aba1426e8851 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-12 19:38:11 - Command a7b6aa55-bdd3-4f7f-934e-d5299ba849ed sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:38:13 - Command 69b42fe6-849f-47ab-9d67-5c436eae85e3 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:38:13 - Command 921b5fad-bb4c-49b3-863f-693600b1090a sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:38:13 - Command d1602f67-91d6-4bdb-8f60-de514969a355 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:38:14 - Command 26ea2127-2b11-4038-b879-6171781e5a42 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:41:08 - Command bd6db0ef-3785-4e3a-8eea-355f5616551b sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:41:09 - Command 14421171-8780-44a6-b228-43cf0414dcfd sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:41:10 - Command c1381e5b-2483-43bd-b97d-8607fbb6e092 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:41:11 - Command 1556bf21-44a3-452c-b608-7d44d0281b85 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:41:12 - Command 58d29d55-d490-4b31-be1f-5baea708f810 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:41:13 - Command 652375dc-cc92-4392-a0ad-a410f8ae6793 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:41:14 - Command 0dd71a57-943e-4b95-a772-487d659db840 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-12 19:41:16 - Command a8f7dc07-1d78-4c61-848a-8bff75fc8f60 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-12 19:41:17 - Command a5f35742-67a1-4d09-b4b0-9252837f0aa6 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-12 19:41:19 - Command 1547203a-2f0f-4ec1-a1aa-a73a49add408 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-12 19:41:20 - Command 61b40d06-91a2-40bf-ad97-6ac502a25c9e sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-12 19:41:24 - Command 8665f765-6957-44ba-a22c-b78a275222e7 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-12 19:41:24 - Command b7abc8d1-0409-49c4-9d3d-60ea0528ca70 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-12 19:41:26 - Command 025c9396-6062-4379-8f2d-7c3ed4f44475 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-12 19:41:26 - Command dbc92344-1e28-4053-9493-44e91dec8849 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-12 19:41:29 - Command fce6761c-5d98-4a3a-a5e2-10088abb1191 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-12 19:41:29 - Command 7c68299a-ebdc-4110-81c2-81b5ca130abe sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-12 19:41:31 - Command 8ab5a927-f938-4072-812f-b50d541e41e5 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-12 19:41:32 - Command 40104ca6-d1bd-41c6-8d5e-88ff2e2032e0 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:41:40 - Command 295ced04-085f-42b3-8b29-35a5c71d224c sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:42:59 - Command 3c0cd63c-f663-47f0-9888-eb88e1f97532 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:45:52 - Command 3e047717-a6b1-47e0-aab1-54acde18a4fd sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:45:52 - Command 8f7313dc-c5ba-4af6-95b3-90d2678fa3dc sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:45:56 - Command b140a6ad-a901-41c5-ac76-ee8e3bd768b4 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:46:00 - ERROR: HTTPSConnectionPool(host='172.23.19.1', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa6ccaa50>: Failed to establish a new connection: [Errno 111] Connection refused')) 6fcd8074-2615-4013-83f7-5fc259cbd084 to ultraut. Retrying...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:46:01 - ERROR: HTTPSConnectionPool(host='172.23.19.1', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa6ccb910>: Failed to establish a new connection: [Errno 111] Connection refused')) 8f1ef784-6f55-4e16-b955-7be3361b02b6 to ultraut. Retrying...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:46:01 - ERROR: HTTPSConnectionPool(host='172.23.19.1', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa6cd5690>: Failed to establish a new connection: [Errno 111] Connection refused')) 448cf5b6-4bd3-40b7-8db5-33e8556dedab to ultraut. Retrying...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:46:02 - ERROR: HTTPSConnectionPool(host='172.23.19.1', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa6cd75d0>: Failed to establish a new connection: [Errno 111] Connection refused')) 966abf34-852f-4747-afcf-27d035617474 to ultraut. Retrying...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:46:03 - ERROR: HTTPSConnectionPool(host='172.23.19.1', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa6cadb50>: Failed to establish a new connection: [Errno 111] Connection refused')) 22f58502-a77d-452a-baf9-c99041a5d729 to ultraut. Retrying...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:46:04 - ERROR: HTTPSConnectionPool(host='172.23.19.1', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa6ccbb50>: Failed to establish a new connection: [Errno 111] Connection refused')) 9ea3f329-f74c-4ff8-a0c3-84b1511b574d to ultraut. Retrying...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:46:05 - ERROR: HTTPSConnectionPool(host='172.23.19.1', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa6cc8810>: Failed to establish a new connection: [Errno 111] Connection refused')) c82c78e0-cc7d-46b9-9f08-d03ccfb01cfd to ultraut. Retrying...
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Button pressed
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:51:58 - ERROR: HTTPSConnectionPool(host='172.23.19.1', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f90751150>: Failed to establish a new connection: [Errno 111] Connection refused')) fbcac556-c822-49b7-81fe-23f865dc22b3 to ultraut. Retrying...
+INFO:root:Button pressed
+INFO:root:Button pressed
+INFO:root:Button pressed
+INFO:root:Button pressed
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:52:27 - Command a03f633f-069e-4c6d-a983-5e986bfc6172 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:52:29 - Command b0269389-d176-4626-aa06-4d0b499258a1 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:52:31 - Command 6a0c26ce-ac84-42ff-8e58-7ba584ed2c60 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:52:32 - Command 3dcc69e6-1861-497a-8791-eff6abe3b2d5 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:52:37 - ERROR: HTTPSConnectionPool(host='172.23.19.1', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f89e727d0>: Failed to establish a new connection: [Errno 111] Connection refused')) d2b274ab-aaa3-4d3c-985c-98c7975e0e62 to ultraut. Retrying...
+INFO:root:Button pressed
+INFO:root:Button pressed
+INFO:root:Button pressed
+INFO:root:Button pressed
+INFO:root:Button pressed
+INFO:root:Button pressed
+INFO:root:Button pressed
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:53:19 - Command 29fc18f5-b7bc-4507-8b36-7e83fa5f2793 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:53:20 - Command 8b1e6be8-20e5-4a5e-9246-2380b2bf1b20 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:53:20 - Command 92389ae7-b604-4b69-bb9d-93ea8fff84e8 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:53:23 - Command f17cbbe8-9b9f-4a24-aea3-9d55d0471faa sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:53:23 - Command 69a3574e-d535-4efd-a70f-e55a4d246ac1 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:53:26 - Command 1f5e707b-19c0-4144-93ce-7884cff8f1ad sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:53:28 - Command 64e490b2-6ef2-4d24-9ac0-c37d386d3c86 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:53:28 - Command 766d71ef-35cd-4cfc-beaf-ce8cfe856dd3 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:53:31 - Command c8ea6d37-6bf4-4338-806f-a1c75221caea sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:53:32 - Command 5429bcd2-1c89-4df8-8209-a682c5a9d447 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:53:32 - Command 3904756e-c3d5-4e8e-a4d9-d5b9d5732e88 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-12 19:53:35 - Command 82857230-1860-4697-9987-5529cec6a374 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-12 19:53:36 - Command bb8fb2c2-75b3-4409-a629-36360d74c245 sent to ultraut: update
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:59:14 - Command a8108129-b1a0-40e8-b4d7-5652f362ff81 sent to ultraut: update
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 19:59:49 - Command 854d14bd-b0a7-4eda-88b5-78b306acc9d5 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 20:01:17 - Command 2560e678-ffeb-426a-bc44-72cb1cf734d5 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 20:01:36 - Command 779eaf20-5a8f-4dc2-afe1-d5b0285ebd14 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 20:01:48 - Command 71ac2bc0-b8d6-4d06-9595-021f63fe8a71 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 20:01:52 - Command 96d9af61-9ef4-46f9-8c49-7fb9d7273fee sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 20:02:01 - ERROR: HTTPSConnectionPool(host='172.23.19.1', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb18cc690>: Failed to establish a new connection: [Errno 111] Connection refused')) d0c56b51-c69c-4965-be4d-91b51f437de6 to ultraut. Retrying...
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-12 20:02:57 - ERROR: HTTPSConnectionPool(host='172.23.19.1', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7facaf1110>: Failed to establish a new connection: [Errno 111] Connection refused')) 3e51735d-79f3-4936-afc9-8895ae9fb1ee to ultraut. Retrying...
+INFO:root:Button pressed

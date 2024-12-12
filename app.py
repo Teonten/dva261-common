@@ -1,20 +1,29 @@
+#!/bin/bash
+import gpiozero
 from gevent.pywsgi import WSGIServer
 from app import app
+from app.sensors import ultra_in, ultra_out, button_pressed
 from app.client import heartbeat
-from config.settings import NODE_CONF
+import config.settings
 from config.tls_config import get_tls_context
 import logging
+#from app import actuators
 from signal import pause
-from app import actuators
+
+
 
 
 if __name__ == "__main__":
-    logging.info(f"Starting {NODE_CONF['hostname']} API server...")
+    print(f"Starting {config.settings.NODE_CONF['hostname']} API server...")
+    logging.info(f"Starting {config.settings.NODE_CONF['hostname']} API server...")
     context = get_tls_context()
-    #button.when_activated = button_pressed
-    #ultrasonic.when_in_range = sensor_trigger
-    #ultrasonic.when_out_of_range = 
-    heartbeat()
-    http_server = WSGIServer((NODE_CONF['host_ip'], NODE_CONF['host_port']), app, ssl_context=context)
+    config.settings.BUTTON.when_activated = button_pressed
+    config.settings.ULTRASONIC.when_in_range = ultra_in
+    config.settings.ULTRASONIC.when_out_of_range = ultra_out
+
+    http_server = WSGIServer((config.settings.NODE_CONF['host_ip'], config.settings.NODE_CONF['host_port']), app, ssl_context=context)
     http_server.serve_forever()
+    heartbeat()
     pause()
+
+

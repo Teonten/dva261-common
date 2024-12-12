@@ -22,6 +22,7 @@ def index():
 @authenticate_node
 def post_command():
     """Actuator command from ctrl."""
+    pass
  
 @routes.route("/status", methods=["GET"])
 def system_status_view():
