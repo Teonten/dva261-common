@@ -699,3 +699,779 @@ INFO:root:Button pressed
 INFO:root:Yellow LED on.
 INFO:root:2024-12-12 20:02:57 - ERROR: HTTPSConnectionPool(host='172.23.19.1', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7facaf1110>: Failed to establish a new connection: [Errno 111] Connection refused')) 3e51735d-79f3-4936-afc9-8895ae9fb1ee to ultraut. Retrying...
 INFO:root:Button pressed
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-13 13:32:43 - Command b309123c-dfe3-4c53-b823-8566cebaf185 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-13 13:32:53 - Command 18ec498e-313b-4412-9367-b57427dc4aaa sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-13 13:32:54 - Command eacaa1b0-f90e-46f0-bda7-78cc923fd9f8 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-13 13:32:55 - Command a8256717-2ca0-4b81-a07b-b8756eec5d98 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-13 13:32:56 - Command b777608a-8ba3-4321-897e-a2cf55708fe2 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-13 13:32:57 - Command 89dbfcce-ee65-42e7-a8f4-3a98d731110c sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-13 13:32:58 - Command d17d1b4a-2557-4506-99b7-9999754b3d5d sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-13 13:33:00 - Command b7c0b9dc-74b6-468d-91a4-ea77209e2345 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-13 13:33:01 - Command 7a16fa8b-3906-45d7-8620-043f36d33ab6 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-13 13:33:02 - Command bdecf5c8-f417-45bd-8bc6-d2116f5f3376 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-13 13:33:03 - Command 9b5e1413-14d9-4002-8dfd-8f6036fe2d04 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-13 13:33:05 - Command 8cbac99e-c6be-492b-bf2c-e7ae6386921c sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-13 13:33:05 - Command 57208dae-1024-4620-92a0-86c253bac0cc sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-13 13:33:06 - Command 6e504ffe-6386-460f-95bc-396c12c82674 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-13 13:33:07 - Command 42a6cbed-fb31-4303-a5e5-bf60f2382711 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-13 13:33:08 - Command 1035fd49-b67c-4e81-a666-5c6a693592d9 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-13 13:33:09 - Command f21a54fb-6db7-491e-8c39-1cc7aa33d6ad sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-13 13:33:10 - Command ba5d4ca3-df57-4a47-b4ac-e3de82aaa11a sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-13 13:33:11 - Command 249f2c5d-a410-4d07-88a0-9512eddfa405 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-13 13:33:12 - Command e563ecbe-12c2-4c55-9cdf-b49a20bc4aa6 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-13 13:33:13 - Command 9e5cb450-2519-4ddd-a82d-a73717fbe942 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-13 13:33:14 - Command eb022a90-ee62-4d4f-907b-aeebc6991e89 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-13 13:33:15 - Command 23b85e72-dfbd-4f7a-b4da-59fb92f9727a sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-13 13:33:17 - Command 38da6f40-513d-490f-a6ed-2a9f9385431a sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-13 13:33:18 - Command 5b772697-780e-4247-ba22-8b0538c7c9c9 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-13 13:33:20 - Command f983b7b5-fec8-41e1-85ff-5c628416e0ae sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-13 13:33:20 - Command 86f08de8-8b86-437f-824b-22386144f333 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-13 13:33:21 - Command d53cb92f-c32b-464b-aeef-b0d9b3cd32f7 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-13 13:33:21 - Command f29b35e1-75cd-430e-a9a5-b0ae69f22a94 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-13 13:33:22 - Command 87c4bc40-aa40-441b-a631-72c8130d8c09 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-13 13:33:22 - Command c3f02b15-9ec1-4eaa-a395-74ac4a50d4f9 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-13 13:33:23 - Command 909b7180-b94e-480e-89ef-7fc683ed94c4 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-13 13:33:24 - Command 3a3968d5-7faf-44d7-b763-936182377c08 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-13 13:33:35 - Command 93aaa3b6-c17c-484b-8fb1-f675d26a2a3a sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-13 13:33:36 - Command 9250e07d-0504-46fc-b2ca-d9e230188974 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-13 13:33:38 - Command 473e3136-ac53-40e9-a413-35155357a8af sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-13 13:33:39 - Command c42d281f-431f-4ab2-9713-6ca50b3b3673 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-13 13:33:40 - Command 2f476772-8b49-4f9e-8d9a-c12ec0051db3 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-13 13:33:41 - Command 0386332a-0bb1-4e7e-aa9a-230cd8044134 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-13 13:33:41 - Command 481c92c3-1fc1-425e-a712-e656dab60266 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-13 13:33:43 - Command cfc3dcc9-d4ac-4e49-b95a-748917105ef3 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-13 13:33:43 - Command ebdd9bf7-06ed-49a0-b91c-972a948f8312 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-13 13:33:44 - Command c97efdd0-736d-48be-a7f6-676a487a16eb sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-13 13:33:44 - Command f05af134-9378-49dc-abad-5ce56cde581c sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-13 13:33:46 - Command 130982ac-5717-46b2-959f-a5d805474db0 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-13 13:33:47 - Command 5f4e3363-594e-40e4-9ec8-630f50187d56 sent to ultraut: update
+INFO:root:Starting ultraut API server...
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 20:46:28 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f885b0dd0>: Failed to establish a new connection: [Errno 111] Connection refused')) 0933bef1-5245-484e-b11d-0942c966e9f3 to ultraut. Retrying...
+INFO:root:Button pressed
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Button pressed
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:09:46 - Command 236a57b3-1c9e-4534-95f7-dd412528be73 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:09:54 - Command 6afd130a-990c-4212-a34a-6dd8e4ee5631 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:11:01 - Command 726798be-be80-4db5-95cd-be2ed6d90ada sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:14:15 - Command ed8a133d-80c2-4c46-9ede-47960f864977 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:14:37 - Command eba61390-bd44-44f1-ab7b-169a3dd8512b sent to ultraut: update
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:17:46 - Command 819f62da-82f9-44d6-b50e-addc51f19d13 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:18:38 - Command 9f8da316-4e18-479f-8b08-9532f54936fa sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:18:38 - Command 4cd33e3f-3f07-47ef-a1fc-f4e7b5ae77d0 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:20:58 - Command 95d0e221-a39b-4df7-80ac-946312e6b11f sent to ultraut: update
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:21:37 - Command 496d0e0f-95ee-47d6-9f28-d123fe4a5090 sent to ultraut: update
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:25:16 - Command 539fbc01-4dc7-4788-965a-4125b8b1f6b6 sent to ultraut: update
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:26:37 - Command 5ae41c46-8351-41ab-9783-25ba3d5db56b sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:26:39 - Command da51fa7e-cc32-470e-a7c6-f7687c3990ab sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:28:05 - Command 51b14e22-3bd0-4426-a98b-2b2cc6681523 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:28:38 - Command 645fb94a-cdeb-40e0-b030-d2f7c0fe9b40 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:28:45 - Command df0ddb23-dd72-43b0-8bd2-dc5065eae376 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:28:48 - Command a08d0a8d-bc53-4ad2-a76f-467d94c1cd8a sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:28:50 - Command 1b72abd7-47b6-491f-a89f-7d763f88f5cf sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:28:50 - Command 9fd99987-6021-4010-bfc2-40708b5f7e3b sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:28:51 - Command be6207a8-74f5-4767-93fa-56eafb096a13 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:28:54 - Command dadf100a-4a20-49d0-8260-c767fd38eb51 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:28:59 - Command c967f0a7-e06e-40ea-9720-494dd0fbf87f sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:29:00 - Command 72be83d2-cb32-4446-81cf-163e7da9a330 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:29:07 - Command ee0d8329-a536-45ae-b96a-d202b960b2b6 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:29:08 - Command 9e953087-e2ce-47a8-b55d-adc3469e0c56 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:29:11 - Command 16d86ba3-b434-4281-97f3-4c01912b6e6a sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:29:11 - Command c31533c6-4fa6-455e-ba9b-7a461aaafe2b sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:29:14 - Command 28087c58-624d-4012-92f7-78ed63cbf79c sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:29:15 - Command c0ee6fd4-23bd-4f42-91dd-b2cf8fa73167 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:29:22 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f84231690>: Failed to establish a new connection: [Errno 111] Connection refused')) 8723c10f-9637-4729-a65b-b08156c73887 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:29:29 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f842339d0>: Failed to establish a new connection: [Errno 111] Connection refused')) 7b20c5ff-4b7d-4471-a921-8b214f37e42a to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:29:29 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8423d910>: Failed to establish a new connection: [Errno 111] Connection refused')) 7d3623ba-bf3b-424a-892a-43232c976763 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:29:31 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8423f850>: Failed to establish a new connection: [Errno 111] Connection refused')) e95e0081-8ad8-4622-b5da-372e3eb12d97 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:29:44 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8423ec90>: Failed to establish a new connection: [Errno 111] Connection refused')) 033511c9-a563-4a1d-b5cd-f2b6dc685eb8 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:29:45 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8423da90>: Failed to establish a new connection: [Errno 111] Connection refused')) 55fc71ba-35cd-4aac-b4be-abc34fbd7241 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:29:56 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f84232750>: Failed to establish a new connection: [Errno 111] Connection refused')) 744c2038-5b68-470f-a924-6b370c9bca61 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:29:58 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f84232250>: Failed to establish a new connection: [Errno 111] Connection refused')) e14879fd-738c-4ce4-8005-ca927df6b3f0 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:29:59 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f84241990>: Failed to establish a new connection: [Errno 111] Connection refused')) 292f2498-c12b-4f34-8af7-6fa1f947e8ac to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:29:59 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f842438d0>: Failed to establish a new connection: [Errno 111] Connection refused')) 5ce1f98a-00ea-4633-b9fd-3c0c8f26e7da to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:30:04 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8424d850>: Failed to establish a new connection: [Errno 111] Connection refused')) 89abf7df-869f-45b9-81ed-ec7b2949809e to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:30:09 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f84231350>: Failed to establish a new connection: [Errno 111] Connection refused')) c0bd60ed-3729-4224-8749-0a84356d5ad8 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:30:20 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f84232d90>: Failed to establish a new connection: [Errno 111] Connection refused')) 49ab886d-6697-4a3a-958a-c227eb083063 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:30:21 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f84242d90>: Failed to establish a new connection: [Errno 111] Connection refused')) d7bc927d-e772-48a0-8c03-3d446f75196a to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:30:34 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f84240290>: Failed to establish a new connection: [Errno 111] Connection refused')) f143a9b5-b957-4c2c-a36c-6c1e2b1b95cd to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:30:34 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8423de90>: Failed to establish a new connection: [Errno 111] Connection refused')) 77d774b4-4212-4914-bb07-35f877f30f29 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:30:34 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8424de10>: Failed to establish a new connection: [Errno 111] Connection refused')) d226c2b1-be5f-4ead-8734-49376a466865 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:30:35 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8424fa10>: Failed to establish a new connection: [Errno 111] Connection refused')) 7c470674-2a7e-475a-a056-a73df2f5d81e to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:30:35 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8423d950>: Failed to establish a new connection: [Errno 111] Connection refused')) 37e15ca9-de0a-4f39-8bee-ebf407cf8858 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:30:35 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8423d450>: Failed to establish a new connection: [Errno 111] Connection refused')) 62928cfc-16ab-422c-b57c-d8d5e5051ea8 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:30:44 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f84241bd0>: Failed to establish a new connection: [Errno 111] Connection refused')) c09f3bbc-c82a-4a73-9f92-d315d586c94e to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:30:45 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f84241c90>: Failed to establish a new connection: [Errno 111] Connection refused')) 2919897f-5c1c-452c-83be-63e4dae93c05 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:30:47 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f84232790>: Failed to establish a new connection: [Errno 111] Connection refused')) ceacb273-fb47-4866-8946-c0ef011af9e6 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:30:47 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8424dd90>: Failed to establish a new connection: [Errno 111] Connection refused')) 44e8319b-fc75-41cf-9b9f-9bd5015454be to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:30:48 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7e6a1c10>: Failed to establish a new connection: [Errno 111] Connection refused')) 43885698-5ebf-442b-afa7-a45667736e9c to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:30:48 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f84230610>: Failed to establish a new connection: [Errno 111] Connection refused')) 32943252-e8e2-402a-bb96-3a52bbd59515 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:30:50 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f84233d50>: Failed to establish a new connection: [Errno 111] Connection refused')) c9c1bea1-639d-407e-bf33-fda2ff2c35c5 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:30:51 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8423f9d0>: Failed to establish a new connection: [Errno 111] Connection refused')) b2d85258-d821-48a5-864d-85565ac043df to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:30:51 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8423f610>: Failed to establish a new connection: [Errno 111] Connection refused')) 21efb118-ed84-4bff-ba3c-1ce4e491e7d6 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:30:52 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8424e290>: Failed to establish a new connection: [Errno 111] Connection refused')) 8826dfd6-2e35-4e9b-bffa-5916e3fd3b17 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:31:03 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f84242d10>: Failed to establish a new connection: [Errno 111] Connection refused')) 5b3f4cf9-2f35-47c3-bf02-3cf322a49524 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:31:04 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f84241b50>: Failed to establish a new connection: [Errno 111] Connection refused')) d64363ea-cf65-4f24-8d8d-eb17f2b45c2b to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:31:06 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8424d910>: Failed to establish a new connection: [Errno 111] Connection refused')) 1dc8a997-7adb-4e2f-9302-509f2b1698af to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:31:13 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8424ebd0>: Failed to establish a new connection: [Errno 111] Connection refused')) 7262998a-1bde-4ec8-a2dd-b1f5f299fe86 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:31:19 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8423f8d0>: Failed to establish a new connection: [Errno 111] Connection refused')) ef10280e-ae08-4e0f-86d6-117d065ac38a to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:31:19 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8423d710>: Failed to establish a new connection: [Errno 111] Connection refused')) 622d43c1-60a3-4fc7-8bc2-9a1f6e4357be to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:31:21 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f84240c50>: Failed to establish a new connection: [Errno 111] Connection refused')) 54a6fb7b-0c70-418d-b027-38e30b780b55 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:31:27 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f84232350>: Failed to establish a new connection: [Errno 111] Connection refused')) 10019e6b-5d17-4393-9bb3-75e2eb6be3ef to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:31:27 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f84233fd0>: Failed to establish a new connection: [Errno 111] Connection refused')) 5fd4e0bb-edd1-4529-9973-5677110e0b40 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:31:33 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f84230690>: Failed to establish a new connection: [Errno 111] Connection refused')) 83ef4abc-55f8-43ba-a309-ab818fd4970c to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:31:38 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f84232c10>: Failed to establish a new connection: [Errno 111] Connection refused')) 1e7eb22a-20c6-4cf3-b5da-67caeffc42a8 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:31:38 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8423d810>: Failed to establish a new connection: [Errno 111] Connection refused')) e9626497-4360-4069-b02a-2d00c052ed56 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:31:40 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8423c250>: Failed to establish a new connection: [Errno 111] Connection refused')) 69edc05f-d428-44f8-a7c0-55e45eb0d64c to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:31:40 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8424fc90>: Failed to establish a new connection: [Errno 111] Connection refused')) eaf9e71a-8121-46d6-a49b-59f118058b67 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:31:42 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8424e490>: Failed to establish a new connection: [Errno 111] Connection refused')) b880f57f-34aa-4d7d-b5c8-df8f74fee486 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:31:42 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f84243250>: Failed to establish a new connection: [Errno 111] Connection refused')) dea5d100-dd3e-45ca-8db7-06a988cff033 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:31:44 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7e6a0c10>: Failed to establish a new connection: [Errno 111] Connection refused')) 3f552509-9e85-4959-858c-74a7caabe65b to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:31:45 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8423ded0>: Failed to establish a new connection: [Errno 111] Connection refused')) 8e8f2ea6-5ced-43f9-ae6f-31a04b7fd85f to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:31:46 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8423c290>: Failed to establish a new connection: [Errno 111] Connection refused')) 47ff2829-98c7-415c-8077-5bda958913e8 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:31:46 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8424c0d0>: Failed to establish a new connection: [Errno 111] Connection refused')) 95b16522-cf03-49fd-942c-afd4086697c7 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:31:51 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f865b4350>: Failed to establish a new connection: [Errno 111] Connection refused')) 7547e1a7-db63-4880-b30d-7549ffe13121 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:31:52 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f84232990>: Failed to establish a new connection: [Errno 111] Connection refused')) e1c4a2fd-5c70-4314-a0e9-1f1a6c17d458 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:31:52 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f842402d0>: Failed to establish a new connection: [Errno 111] Connection refused')) b18a4a7b-ae67-430c-82aa-5c3073e300a8 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:31:52 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7e6a2090>: Failed to establish a new connection: [Errno 111] Connection refused')) 9085edd6-399e-45e7-9392-6c8e366fbb2c to ultraut. Retrying...
+INFO:root:Starting ultraut API server...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:32:11 - Command 639b6d05-95e5-431e-92ec-2807746e320e sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:32:13 - Command e715331e-a887-4f0f-9767-7ded2ba3d90b sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:32:14 - Command 039bd7de-5a57-4391-8e25-f6973e025010 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:32:16 - Command 002ddd23-2b28-4009-b487-612adf075c16 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:32:17 - Command 3bf35519-486b-4c09-b911-066b9ba19e93 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:32:19 - Command bca1968f-6d30-4f50-99a1-bc750838a8f8 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:32:21 - Command d86766cb-cdb2-400a-b7ab-3b202dfcad24 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:32:23 - Command 5b010f01-2063-4456-902a-6921fc6c3efd sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:32:23 - Command 72ec9e14-e175-464e-9771-e7f3bc2afd34 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:32:24 - Command 3ff110e8-1c89-41e9-a8d4-caa1e03f55f0 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:32:25 - Command 520ad3a0-1b0d-4dbc-b779-d4f7448f7123 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:32:26 - Command e20542cf-7aba-40f5-b848-26ae80535590 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:32:28 - Command 765066b6-af50-4668-ad32-9ab3ea0c5fa7 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:32:29 - Command 2f35627d-ec4a-4bdf-b9fb-dd9a13d2bcfc sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:32:39 - Command 1dfc3339-8f9b-4289-b81e-d81ca71c7650 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:32:40 - Command d9a0c462-41db-4b1e-a4af-46fc17afdb4c sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:32:40 - Command 35a97f32-0c9d-4e37-8d94-434e5273ea63 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:32:42 - Command 87bff6e3-4239-4890-8408-c5a0ab40e8c0 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:32:42 - Command f1b9256a-e06b-4bce-91a6-5aadcd5340fc sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:32:47 - Command 8df53ef7-22cc-46dd-bd6b-2329ce53c7c6 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:32:48 - Command f2e2aec6-e9b9-4801-9982-fa52ed36fff5 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:32:58 - Command d9bcc185-c911-40f3-ae32-5a24517d98c9 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:32:58 - Command 3f03d6f9-5fd8-45b6-b33e-cf38f043cdd3 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:33:00 - Command 980aa1f7-e394-4848-89c5-2058e5c1cae5 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:33:01 - Command d9606aab-245d-43f8-8ad7-700f04d888e9 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:33:02 - Command 40835c29-a681-492e-bbf2-e2f439a07ab6 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:33:03 - Command 81ad9602-c924-4e2e-8db8-9181c5852a7b sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:33:04 - Command a6579b93-1ca6-4c8e-afa8-f4f49094e666 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:33:05 - Command 13e0b856-e565-4f81-bc01-2283436710df sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:33:25 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982a08d0>: Failed to establish a new connection: [Errno 111] Connection refused')) 5fff399f-8cbb-47b3-b515-fbb645e162e2 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:33:31 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982ac410>: Failed to establish a new connection: [Errno 111] Connection refused')) d9df4d53-d49e-4e83-a7eb-82ee3ee6e103 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:33:52 - Command fde7fdb3-c783-4e9b-98f4-8a2078a68e2e sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:33:53 - Command ad37dfc9-6d2a-4c13-a18c-a3fdde8017f7 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:34:13 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982acd90>: Failed to establish a new connection: [Errno 111] Connection refused')) 9d0c803a-864f-428c-b5b5-a6bc78f29f13 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:34:25 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982b03d0>: Failed to establish a new connection: [Errno 111] Connection refused')) 4f1db835-6584-45f1-8da1-5dede4c6bfa7 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:34:26 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982a0a90>: Failed to establish a new connection: [Errno 111] Connection refused')) a6a9ff7e-7506-4789-b41f-e5d3ba73f8e5 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:34:26 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982aef10>: Failed to establish a new connection: [Errno 111] Connection refused')) dc599077-4376-4bb4-bd25-b41d52605468 to ultraut. Retrying...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:35:05 - Command abbb1f2f-c54e-4d65-b1a9-bcd834d75f72 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:35:18 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982ac410>: Failed to establish a new connection: [Errno 111] Connection refused')) 4b2d5cf9-7cc2-452d-95d6-7c3965271783 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:36:11 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982b23d0>: Failed to establish a new connection: [Errno 111] Connection refused')) d8a8bc40-cf65-4b91-9f3f-297024273d83 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:36:17 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982b8350>: Failed to establish a new connection: [Errno 111] Connection refused')) 07b9eacc-14a7-4ed5-9eb7-c1e3d048cbdf to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:37:35 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982ba250>: Failed to establish a new connection: [Errno 111] Connection refused')) 66d94323-4f4f-4115-b8b9-465c97a98149 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:38:00 - Command 1608ebda-7ed9-4817-8bd6-5f521e3bc675 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:38:11 - Command aa55cf29-ad48-4f1b-88b2-9fac72bd1e58 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:38:19 - Command 2026870f-f976-4bdb-9bc8-7814ee525d76 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:39:34 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982b2e50>: Failed to establish a new connection: [Errno 111] Connection refused')) 7977a534-722b-4d16-ad01-e508ab29a09a to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:39:34 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982b2490>: Failed to establish a new connection: [Errno 111] Connection refused')) f700fe93-eae2-474f-bcf0-89ce244c110d to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:40:41 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982ac390>: Failed to establish a new connection: [Errno 111] Connection refused')) 3f8fb421-10c6-4103-bbbe-00ec9eef2350 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:40:41 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982a1950>: Failed to establish a new connection: [Errno 111] Connection refused')) f6ebca8c-e896-44a6-b14a-d2bff629e751 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:41:06 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982b8f10>: Failed to establish a new connection: [Errno 111] Connection refused')) 3cef03fb-7fe0-45a1-9098-935679a492f6 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:41:07 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982b90d0>: Failed to establish a new connection: [Errno 111] Connection refused')) 925799f6-b92f-4e0a-92b2-34e2fe119fe6 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:41:10 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f91ec0490>: Failed to establish a new connection: [Errno 111] Connection refused')) ccd163bb-c3ee-4632-b8f2-a8ca1b1fae04 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:41:10 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982accd0>: Failed to establish a new connection: [Errno 111] Connection refused')) dba02b10-a685-4bc4-be76-98b4cae2d690 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:41:11 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982b98d0>: Failed to establish a new connection: [Errno 111] Connection refused')) 3950a603-d3f7-4cb6-b10b-8d0bb296176d to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:41:12 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982a33d0>: Failed to establish a new connection: [Errno 111] Connection refused')) 06f3e1dc-ac14-4b66-9c4d-5975981eb333 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:41:12 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982b0890>: Failed to establish a new connection: [Errno 111] Connection refused')) fd2b70cc-b893-444d-8a69-d4e8853efc7a to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:41:13 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982b0690>: Failed to establish a new connection: [Errno 111] Connection refused')) 24f3037b-9320-42a7-872c-ee61968bedbc to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:41:13 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f91ec0750>: Failed to establish a new connection: [Errno 111] Connection refused')) 5629200d-397d-45ac-98a3-5a4ff2f85896 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:41:14 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f91ec24d0>: Failed to establish a new connection: [Errno 111] Connection refused')) f7e5384b-afef-42be-8749-41debaf03336 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:41:28 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982a3410>: Failed to establish a new connection: [Errno 111] Connection refused')) 00b9b0e4-b033-4cfd-ba8d-26c227a12613 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:41:30 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982bb550>: Failed to establish a new connection: [Errno 111] Connection refused')) f5261882-479f-4045-bd06-3721ab39526d to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:41:32 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982b91d0>: Failed to establish a new connection: [Errno 111] Connection refused')) f6a8a88b-4dfd-43ca-a711-0ddd83f34632 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:41:32 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982b2e50>: Failed to establish a new connection: [Errno 111] Connection refused')) 45b9321a-1a07-453b-9b69-a675feb9e49d to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:41:35 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982b2a90>: Failed to establish a new connection: [Errno 111] Connection refused')) 600b31ca-2691-4426-9b38-74a3d344aa04 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:41:36 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982ac350>: Failed to establish a new connection: [Errno 111] Connection refused')) 85ddbdbf-0889-4a38-a11a-830ce44d5b43 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:41:41 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982ade90>: Failed to establish a new connection: [Errno 111] Connection refused')) 33a035af-baa9-427d-b4d7-d7a1fe718cd8 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:41:41 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982b2310>: Failed to establish a new connection: [Errno 111] Connection refused')) a55b00c9-fa52-49ab-9b5d-7eb0256fec65 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:42:13 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982b18d0>: Failed to establish a new connection: [Errno 111] Connection refused')) 0ba5627f-bede-4d73-9b5e-e48d34a763bf to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:42:15 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982ba150>: Failed to establish a new connection: [Errno 111] Connection refused')) 3ec102fd-718b-488d-9cfb-3375678d59f6 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:42:15 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982bb3d0>: Failed to establish a new connection: [Errno 111] Connection refused')) 1f66bf54-0070-4c9f-8091-0f690c4e4995 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:42:19 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982af850>: Failed to establish a new connection: [Errno 111] Connection refused')) 8dce5c7c-0ff1-4393-8889-bf29be6a40ed to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:42:19 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982a3390>: Failed to establish a new connection: [Errno 111] Connection refused')) f09a43b4-e763-4425-8f05-ef19cc98f6bf to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:42:19 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982a3c10>: Failed to establish a new connection: [Errno 111] Connection refused')) 77fb32fe-9412-41c3-b833-311188973cbb to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:42:21 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982a3950>: Failed to establish a new connection: [Errno 111] Connection refused')) 473e9e08-e4b2-489c-a244-159db4b57681 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:42:21 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982a3c50>: Failed to establish a new connection: [Errno 111] Connection refused')) c034d298-b2dd-4a9e-b2d2-9cd819748e43 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:42:24 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982baa90>: Failed to establish a new connection: [Errno 111] Connection refused')) 07e0110f-c9f4-4041-9317-fd7a688d13fd to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:42:24 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982b8a10>: Failed to establish a new connection: [Errno 111] Connection refused')) 072163c7-c95a-4bb0-af5f-8a3be86a3174 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:42:25 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982b0f90>: Failed to establish a new connection: [Errno 111] Connection refused')) b4ec53c2-5665-464a-accd-c27241a7ae80 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:42:26 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982b0b50>: Failed to establish a new connection: [Errno 111] Connection refused')) c566bab0-8f78-46a3-9c86-f442d16f58ed to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:42:26 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982ae0d0>: Failed to establish a new connection: [Errno 111] Connection refused')) 29302f79-b5b7-493c-b420-3f98a560f2c2 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:42:27 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f91ec03d0>: Failed to establish a new connection: [Errno 111] Connection refused')) a2da6485-e889-4284-a5a1-2ddf430c6fad to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:42:30 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982b8a10>: Failed to establish a new connection: [Errno 111] Connection refused')) 11bb184b-9751-4178-8d09-41f48245237f to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:42:31 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982ba350>: Failed to establish a new connection: [Errno 111] Connection refused')) 98c58af4-5d2a-4ead-8ff6-ae037f03b2ba to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:42:31 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982b2fd0>: Failed to establish a new connection: [Errno 111] Connection refused')) 356aceb4-718e-4503-90f1-ca3149d88737 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:42:31 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982b2ed0>: Failed to establish a new connection: [Errno 111] Connection refused')) c9031531-51f7-4c3c-9cb8-a62a62e0cf7b to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:42:32 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982a2610>: Failed to establish a new connection: [Errno 111] Connection refused')) 44addb41-cbb8-4e1e-905a-6b2524057680 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:42:41 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982aeb10>: Failed to establish a new connection: [Errno 111] Connection refused')) 56454d8e-1b7f-4774-80a3-ebdd4da561fa to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:42:45 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f91ec29d0>: Failed to establish a new connection: [Errno 111] Connection refused')) be1b5601-2203-4cae-8656-d82a01f91e44 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:42:49 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982a1d50>: Failed to establish a new connection: [Errno 111] Connection refused')) f94b3484-a923-42d5-9ac3-3b61e2e50939 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:42:50 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982a1c90>: Failed to establish a new connection: [Errno 111] Connection refused')) 545e6c9b-0807-42f2-8187-2a0a479a1f9c to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:42:53 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982b0390>: Failed to establish a new connection: [Errno 111] Connection refused')) 4e639f3e-049b-4408-95bc-5b77485296c2 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:42:53 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982b0ed0>: Failed to establish a new connection: [Errno 111] Connection refused')) 5a0a3962-51c3-437d-b3c3-057e97ee294e to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:42:54 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982ac2d0>: Failed to establish a new connection: [Errno 111] Connection refused')) a4d0512c-8d93-4611-af5f-0f358548fdf5 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:43:00 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982b81d0>: Failed to establish a new connection: [Errno 111] Connection refused')) 28e9e0b2-1b9e-4c92-b8c3-041fcf3cdfce to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:43:01 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982bad50>: Failed to establish a new connection: [Errno 111] Connection refused')) 191b93b2-3d4e-4567-913a-aa859edcf1aa to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:43:01 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982ba150>: Failed to establish a new connection: [Errno 111] Connection refused')) a4c62532-3303-436e-937b-ae5a055512d8 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:43:03 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982bae90>: Failed to establish a new connection: [Errno 111] Connection refused')) de6a9f3b-3018-4650-838d-a4b2dd046718 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:43:04 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982bb850>: Failed to establish a new connection: [Errno 111] Connection refused')) f6a697c9-19ed-4be6-b945-e6eaf7b98822 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:43:09 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982b2a90>: Failed to establish a new connection: [Errno 111] Connection refused')) acdf4824-e8cc-4dd4-914c-6f820d17c454 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:43:14 - Command a428274c-d740-4c77-81cb-c9350e76bd33 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:43:14 - Command 1f050008-985c-4482-a991-f0bbb6a320b0 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:43:29 - Command 083179f2-7c1d-43c9-bb6c-78a27054e6de sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:43:30 - Command 98ba7d96-53a0-40a4-8568-54f53206fd3f sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:43:41 - Command 00794537-6e35-4b71-8ec3-39b8e4dc6885 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:44:02 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f91ec3c50>: Failed to establish a new connection: [Errno 111] Connection refused')) 9bcf2a45-53cb-41fe-9430-d6815fb131bd to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:44:02 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f982ae2d0>: Failed to establish a new connection: [Errno 111] Connection refused')) b7602ef8-e304-4f9f-9924-e49389e6c55f to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:44:10 - Command c06edcb1-1f03-485f-9955-a7256c2c3d0b sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:44:10 - Command d15517a6-d31a-4c5e-b17e-8d99c41f835b sent to ultraut: update
+INFO:root:Starting ultraut API server...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:45:10 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb04c06d0>: Failed to establish a new connection: [Errno 111] Connection refused')) 83f50599-f4df-4ecf-9e50-bfc8dc2fc7d8 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:45:10 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb04c1cd0>: Failed to establish a new connection: [Errno 111] Connection refused')) 7452d111-4986-45f5-96f1-18a7c2341a31 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:45:11 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb04cc9d0>: Failed to establish a new connection: [Errno 111] Connection refused')) ae170568-889e-498f-8b8f-2f452099d592 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:45:14 - Command 5e4ef9db-36d1-4472-a2c8-25a6c7f605d6 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-14 21:45:19 - Command 17a8059f-1350-4aba-a11d-2f4fe7d17eec sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-14 21:45:19 - Command 5df53d48-dd4b-44cb-ac8e-9a8d3f8fecf8 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:45:56 - Command d9a0875e-0f68-4f0e-b1cb-4950ae3d3835 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:46:50 - Command c489553d-308b-4cf0-acc0-23d68e521c1c sent to ultraut: update
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:50:31 - Command c84ed55e-3145-4307-b8cb-47fd4de96d53 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:50:32 - Command 72dc5774-0448-4109-9caa-5317079a267e sent to ultraut: update
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Ultrasonic OUT
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:56:23 - Command 2723cb64-08f4-4a06-8093-388cb150d525 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:56:24 - Command 39eab26c-8bc3-4295-bdcc-28dc134b3697 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:56:25 - Command 887a6a82-6d22-4480-a0e1-ab071cdf57e3 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:56:26 - Command b3429950-54db-4417-8cb6-3528e8a56776 sent to ultraut: update
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 21:59:18 - Command c33355ac-a130-46b9-9ff3-c09cb4cf66ee sent to ultraut: update
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 22:00:51 - Command 21b91ad6-1eb9-4c50-bc43-d0b9aa69d7d5 sent to ultraut: update
+INFO:root:Starting ultraut API server...
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 22:55:16 - Command ce72641f-9d23-4729-9c5a-84315d33d658 sent to ultraut: update
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 23:10:44 - Command 87005fb7-cdbb-4ea5-aa2d-aa39dd890388 sent to ultraut: update
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 23:12:10 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f807fb050>: Failed to establish a new connection: [Errno 111] Connection refused')) 1e86b6ce-e981-4908-ad8f-b45b45b43c9c to ultraut. Retrying...
+INFO:root:Button pressed
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 23:12:32 - Command c660bec8-7a0c-4add-b171-0c8647756741 sent to ultraut: update
+INFO:root:Starting ultraut API server...
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 23:25:33 - Command b1f4312c-eac1-421d-a558-8f077bede2a4 sent to ultraut: update
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 23:51:22 - ERROR: HTTPConnectionPool(host='192.168.0.5', port=80): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f79c80650>: Failed to establish a new connection: [Errno 111] Connection refused')) c09ceae2-4717-46aa-958e-f1b6405018a0 to ultraut. Retrying...
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-14 23:55:01 - Command fd9fe03a-1488-4d56-878f-74be98cb29cd sent to ultraut: update
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-15 00:01:16 - Command 3efc573c-cb87-4eb4-9230-276f91cdea6e sent to ultraut: update
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-15 19:09:47 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8e4908d0>: Failed to establish a new connection: [Errno 111] Connection refused')) 01afcf69-64a6-4962-bc36-f689f1c0a5fa to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-15 19:10:38 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8e492890>: Failed to establish a new connection: [Errno 111] Connection refused')) d33e6c4e-248a-4f20-b5f5-3d1336479c6f to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-15 19:10:39 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8e49cb50>: Failed to establish a new connection: [Errno 111] Connection refused')) 72bd7de4-e5cb-4d27-b965-d205d427c174 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-15 19:10:40 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8e49ee10>: Failed to establish a new connection: [Errno 111] Connection refused')) 6e63b478-2424-4010-829d-be94d8d1202d to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-15 19:10:41 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8e49ef10>: Failed to establish a new connection: [Errno 111] Connection refused')) c3ece9d6-34bb-4b7d-afc0-be9c440dee9a to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-15 19:10:41 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8e49c990>: Failed to establish a new connection: [Errno 111] Connection refused')) dcb7dff9-3996-456e-83aa-46a66eb297d6 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-15 19:10:44 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8e4939d0>: Failed to establish a new connection: [Errno 111] Connection refused')) dbf0fdcf-b45f-4827-9b38-d11d7ebe90d5 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-15 19:10:45 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8e490c90>: Failed to establish a new connection: [Errno 111] Connection refused')) e81e90b8-380d-42a5-b4b7-153ea62c0a1b to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-15 19:10:46 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8e4ad310>: Failed to establish a new connection: [Errno 111] Connection refused')) 1de6f28d-28f6-4efb-9b7b-87d57aa8b6e2 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-15 19:10:47 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8e4af190>: Failed to establish a new connection: [Errno 111] Connection refused')) 85d4d59d-e425-40e5-af78-194490442289 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-15 19:10:48 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8e499090>: Failed to establish a new connection: [Errno 111] Connection refused')) d5c165ba-4a62-431c-a7fb-75765159743f to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-15 19:10:49 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8e4774d0>: Failed to establish a new connection: [Errno 111] Connection refused')) 279ba233-70f4-4f9a-80c9-2e83e00c1dd3 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-15 19:10:50 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8e493e10>: Failed to establish a new connection: [Errno 111] Connection refused')) 09dccc52-66db-4b1f-aa9b-09c839271593 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-15 19:10:50 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8e493ed0>: Failed to establish a new connection: [Errno 111] Connection refused')) 25b7fc14-8097-4fcf-91f1-014a0bff828e to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-15 19:10:52 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8e4af250>: Failed to establish a new connection: [Errno 111] Connection refused')) 7a4fd5f7-6153-4538-896f-05aebb2a62c0 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-15 19:10:52 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8e4acfd0>: Failed to establish a new connection: [Errno 111] Connection refused')) 644aadb7-babe-4097-937f-a1d6bd62e5e5 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-15 19:10:53 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8e49f7d0>: Failed to establish a new connection: [Errno 111] Connection refused')) 7ac8b8bf-2fdd-47d7-ba0d-48e7c6fdb2bb to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-15 19:10:53 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8e4991d0>: Failed to establish a new connection: [Errno 111] Connection refused')) 2872c481-c55d-42db-b036-d2cf5da84a8c to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-15 19:10:55 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8e49ee10>: Failed to establish a new connection: [Errno 111] Connection refused')) 2094d912-7687-42a2-a1ee-6c8b7cf5f551 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-15 19:10:55 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8e49f7d0>: Failed to establish a new connection: [Errno 111] Connection refused')) fae6130a-e641-4d4a-aeb5-5ee10bfe8d4c to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-15 19:10:56 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8e492ed0>: Failed to establish a new connection: [Errno 111] Connection refused')) 43d3e8be-4227-4680-8982-4ecce2af35ac to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-15 19:10:57 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8e492e50>: Failed to establish a new connection: [Errno 111] Connection refused')) fc12cd5d-8c32-48b4-9ff8-6652c01f3167 to ultraut. Retrying...
+INFO:root:Starting ultraut API server...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-15 19:11:02 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f85891310>: Failed to establish a new connection: [Errno 111] Connection refused')) 0de0607c-a0d9-42d1-81fc-272eeaabc5fd to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-15 19:11:09 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f85892f90>: Failed to establish a new connection: [Errno 111] Connection refused')) 5cdc2efc-5425-4934-89f6-7aee6f7ba985 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-15 19:11:11 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8589d250>: Failed to establish a new connection: [Errno 111] Connection refused')) 1553a272-c412-49cc-95d3-581dce16f888 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-15 19:11:13 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8589ea10>: Failed to establish a new connection: [Errno 111] Connection refused')) 382e8f38-2111-447a-8f99-940fab91840d to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-15 19:11:13 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8589f0d0>: Failed to establish a new connection: [Errno 111] Connection refused')) 5977b30b-8c5e-466b-9f68-2bfc2bb2b242 to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-15 19:11:14 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f8589d3d0>: Failed to establish a new connection: [Errno 111] Connection refused')) bfd5976d-8dfe-4a34-8b72-1868dcf5e492 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-15 19:11:14 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f85891e50>: Failed to establish a new connection: [Errno 111] Connection refused')) 035b1d04-b4e7-4a25-af55-f7f69c381d4f to ultraut. Retrying...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-15 19:11:16 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f85890090>: Failed to establish a new connection: [Errno 111] Connection refused')) 9cf59f60-0e51-4ff1-a892-4b7ff55c8306 to ultraut. Retrying...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-15 19:11:17 - ERROR: HTTPSConnectionPool(host='192.168.0.5', port=443): Max retries exceeded with url: /v1/nodes/ultraut/update (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f858ada10>: Failed to establish a new connection: [Errno 111] Connection refused')) c730909c-4617-4098-a224-d70e763b410a to ultraut. Retrying...
+INFO:root:Starting ultraut API server...
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-15 19:14:17 - Command 513fdf7e-bda1-436e-a341-475dcb26d83d sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-15 19:14:17 - Command 4f799f87-3f24-4710-bc2c-2b71a48541fa sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-15 19:14:18 - Command 0b5f1bf5-4c5d-4635-a2c1-71bb4b670503 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-15 19:14:19 - Command b1aaabc9-7fa0-4d7d-89ad-cbef3e04dec6 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-15 19:14:20 - Command f8c59ff0-f95c-4a83-a67a-76057f56d5aa sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-15 19:14:21 - Command fbf9a5d7-e886-457d-98ec-2507ae40d9a7 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-15 19:14:22 - Command 65ce3aaa-941f-4e86-8d6b-a41d15cfe76b sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-15 19:14:23 - Command ad800b13-8638-4dbd-97e6-d03fdff2e4ad sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-15 19:14:24 - Command cec080a6-8e58-46eb-a29a-64f64f277061 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-15 19:14:24 - Command 0007b39f-1804-469c-91e5-3ce109b22325 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-15 19:14:26 - Command 3c840d3c-c7e2-4a1f-8950-35e903c349a9 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-15 19:14:27 - Command 33c58d33-474c-4a24-aa61-03c5234e3221 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-15 19:14:28 - Command efb4ba36-1d58-4f1c-9df0-1e848d01ccbf sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-15 19:14:29 - Command 941ec1c6-3275-4c86-9408-88742ec69078 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-15 19:14:31 - Command bdf2733f-47b9-4c4c-954d-cbc8a1d1b734 sent to ultraut: update
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-15 19:14:32 - Command 61752e4a-e797-4bd6-b135-d4c9da72ef26 sent to ultraut: update
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Ultrasonic OUT
+INFO:root:Starting ultraut API server...
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Ultrasonic OUT
+INFO:root:Ultrasonic IN
+INFO:root:Starting ultraut API server...
+INFO:root:Button pressed
+INFO:root:Yellow LED on.
+INFO:root:2024-12-15 19:35:27 - Command 5ca3703c-7a85-49b0-8c75-8620f3113238 sent to ultraut: update
+INFO:root:Starting ultraut API server...
+INFO:root:Starting ultraut API server...
+INFO:root:Ultrasonic IN
+INFO:root:2024-12-15 19:43:32 - Command d7efbc65-de51-4641-9d39-d002d2192513 sent to ultraut: update
+INFO:root:Ultrasonic OUT
+INFO:root:2024-12-15 19:43:34 - Command ad61f97b-1df9-48d1-b3d2-8e592a7b4e7c sent to ultraut: update
